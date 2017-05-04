@@ -93,10 +93,9 @@ you can start with this code:
 
 module.exports = function (cb) {
   return function (read) {
-    //your pull-stream reader...
     read(null, function next (end, data) {
+    // your pull-stream reader...
       ...
-
     })
   }
 }
