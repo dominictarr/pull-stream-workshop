@@ -12,6 +12,7 @@
     "pull-defer": "^0.2.2",
     "pull-file": "^1.0.0",
     "pull-glob": "^1.0.6",
+    "pull-paramap": "^1.2.2",
     "pull-stream": "^3.4.5",
     "stream-to-pull-stream": "^1.7.2",
     "tape": "^4.6.0"
